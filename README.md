@@ -28,11 +28,11 @@ I completed 6 Wireshark SOC labs from Networkwalks. In each lab I captured traff
 
 **Wireshark work:**
 
-![Lab 3 Wireshark](lab3-wireshark.png)
+![Lab 3 Wireshark](Screenshot%202026-11-04%20152548.png)
 
 **Result:**
 
-![Lab 3 result](lab3-result.png)
+![Lab 3 result](Lab%203%20Result%20-%20Veesam%20Durgaprasad.png)
 
 ---
 
@@ -43,11 +43,11 @@ I completed 6 Wireshark SOC labs from Networkwalks. In each lab I captured traff
 
 **Wireshark work:**
 
-![Lab 4 Wireshark](lab4-wireshark.png)
+![Lab 4 Wireshark](Screenshot%202026-11-04%20171035.png)
 
 **Result:**
 
-![Lab 4 result](lab4-result.png)
+![Lab 4 result](Lab%204%20Result%20-%20Veesam%20Durgaprasad.png)
 
 ---
 
@@ -58,11 +58,11 @@ I completed 6 Wireshark SOC labs from Networkwalks. In each lab I captured traff
 
 **Wireshark work:**
 
-![Lab 5 Wireshark](lab5-wireshark.png)
+![Lab 5 Wireshark](Screenshot%202026-11-04%20231936.png)
 
 **Result:**
 
-![Lab 5 result](lab5-result.png)
+![Lab 5 result](Lab%205%20Result%20-%20Veesam%20Durgaprasad.png)
 
 ---
 
@@ -73,11 +73,11 @@ I completed 6 Wireshark SOC labs from Networkwalks. In each lab I captured traff
 
 **Wireshark work:**
 
-![Lab 6 Wireshark](lab6-wireshark.png)
+![Lab 6 Wireshark](Screenshot%202026-11-04%20233528.png)
 
 **Result:**
 
-![Lab 6 result](lab6-result.png)
+![Lab 6 result](Lab%206%20Result%20-%20Veesam%20Durgaprasad.png)
 
 ---
 
@@ -89,11 +89,11 @@ I completed 6 Wireshark SOC labs from Networkwalks. In each lab I captured traff
 
 **Wireshark work:**
 
-![Lab 7 Wireshark](lab7-wireshark.png)
+![Lab 7 Wireshark](Screenshot%202026-11-04%20235154.png)
 
 **Result:**
 
-![Lab 7 result](lab7-result.png)
+![Lab 7 result](Lab%207%20Result%20-%20Veesam%20Durgaprasad.png)
 
 ---
 
@@ -105,11 +105,11 @@ I completed 6 Wireshark SOC labs from Networkwalks. In each lab I captured traff
 
 **Wireshark work:**
 
-![Lab 8 Wireshark](lab8-wireshark.png)
+![Lab 8 Wireshark](Screenshot%202026-11-05%20002137.png)
 
 **Result:**
 
-![Lab 8 result](lab8-result.png)
+![Lab 8 result](Lab%208%20Result%20-%20Veesam%20Durgaprasad.png)
 
 ---
 
